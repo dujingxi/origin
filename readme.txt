@@ -4,3 +4,4 @@ dujingxi
 hello world
 
 branch dev new
+Creating a new banch is quich and simple.
